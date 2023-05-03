@@ -1,0 +1,84 @@
+{
+  "heroes": [
+    {
+      "id": "0db3a1d8-ae7a-4eea-ab95-13654a24c489",
+      "name": "Jegor",
+      "description": "nothing",
+      "element": "wind"
+    },
+    {
+      "id": "6f5b1c82-e078-4266-9c2b-743008e78047",
+      "name": "fgsdfg",
+      "description": "dfgsdgsd",
+      "element": "fire"
+    },
+    {
+      "id": "450a7448-e639-4a5a-a3db-e21db06a0a16",
+      "name": "sdfgsdfg",
+      "description": "sdfgsdfgsdf",
+      "element": "water"
+    },
+    {
+      "id": "84f45937-38fa-4e01-b8f6-665c1ade5764",
+      "name": "Егор",
+      "description": "1",
+      "element": "fire"
+    },
+    {
+      "id": "ad78e744-ccab-4983-9800-58d7c1a34f35",
+      "name": "Егор",
+      "description": "1",
+      "element": "fire"
+    },
+    {
+      "id": "146f9177-0986-41e4-a2ad-69aebf66db1e",
+      "name": "Егор",
+      "description": "1",
+      "element": "fire"
+    },
+    {
+      "id": "70472201-376c-403b-86eb-18664658a7bf",
+      "name": "Егор",
+      "description": "1",
+      "element": "fire"
+    },
+    {
+      "id": "7a6d6cde-15d9-4536-8093-d4bc02420b6a",
+      "name": "Егор",
+      "description": "vbfgbfgb",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
